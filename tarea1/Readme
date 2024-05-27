@@ -1,0 +1,5 @@
+Hasta ahora el codigo tiene conectada la base de datos en mongodb con una un back hecho en js
+
+los cuales ya aceptan consultas tipo post get put y delete los cuales realize medianate el rest client para VSC, hay ejemplos de consultas en requests.http
+
+el tema del fropnt end tengo otro archivo donde tengo instaciado react en con docker, el problema es la conexion.
